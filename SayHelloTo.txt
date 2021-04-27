@@ -1,0 +1,7 @@
+SayHelloTo
+
+username : string
+
+Write("Bonjour, veuillez entrer votre nom")
+Read(Username)
+Write("Bonjour" Username "!")
